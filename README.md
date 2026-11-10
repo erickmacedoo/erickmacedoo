@@ -15,6 +15,6 @@ JavaScript · HTML · CSS · MySQL · PostgreSQL
 ## 📫 Contato
 [LinkedIn](https://linkedin.com/in/erickmaced)
 
-[Entre em contato comigo](mailto:erickmacedo@edu.unifor.br)
+[Email](mailto:erickmacedo@edu.unifor.br)
 
 
