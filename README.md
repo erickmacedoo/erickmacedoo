@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, eu sou o Erick! 👋
 
-<!--
-**erickmacedoo/erickmacedoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, atualmente curso Ciências da Computação em Universidade de Fortaleza (UNIFOR),
+e atuo como Técnico na Coordenadoria de Tecnologia da Informação e Comunicação (COTIC) na Secretaria das Cidades do Ceará.
 
-Here are some ideas to get you started:
+Possuo foco em construção de aplicações web e um constante aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+JavaScript · HTML · CSS · MySQL · PostgreSQL
+
+## 🚀 Projetos em destaque
+- [compra-insumo](https://github.com/erickmacedoo/compra-insumo.git) - Aplicação Full-Stack desenvolvida para a gestão e cadastro de produtos/insumos.
+- [toDoList](https://github.com/erickmacedoo/toDoList.git) - Aplicação de lista de tarefas (to-do list) desenvolvida em HTML, CSS e JavaScript.
+
+## 📫 Contato
+[LinkedIn](https://linkedin.com/in/erickmaced)
+[E-mail](erickmacedo@edu.unifor.br)
+
+
