@@ -1,6 +1,8 @@
 # Bem-vindo ao meu perfil! <img src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/hi.gif" width="30px">
 
 <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/javascript.png"></code>
+<code><img height="40" alt="HTML" src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/html.png"></code>
+<code><img height="40" alt="CSS" src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/css.png"></code>
 
 Meu nome é **Erick Macedo**. Atualmente atuo na [Secretaria das Cidades](https://www.ce.gov.br/cidades/) como T.I. na Coordenadoria de Tecnologia da Informação e Comunicação (COTIC).
 
