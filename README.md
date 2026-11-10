@@ -1,9 +1,10 @@
-## Olá, eu sou o Erick! 👋
+## Bem-vindo ao meu perfil! 👋
 
-Desenvolvedor em formação, atualmente curso Ciências da Computação em Universidade de Fortaleza (UNIFOR),
-e atuo como Técnico na Coordenadoria de Tecnologia da Informação e Comunicação (COTIC) na Secretaria das Cidades do Ceará.
+Meu nome é **Erick Macedo**. Atualmente atuo na [Secretaria das Cidades](https://www.ce.gov.br/cidades/) como T.I. na Coordenadoria de Tecnologia da Informação e Comunicação (COTIC).
 
-Possuo foco em construção de aplicações web e um constante aprendizado.
+Sou estudante de Bacharelado em Ciência da Computação pela Universidade de Fortaleza (UNIFOR).
+
+Atualmente, sou um Desenvolvedor Full-Stack em formação, com foco em Aplicações e Sistemas WEB.
 
 ## 🛠️ Tecnologias
 JavaScript · HTML · CSS · MySQL · PostgreSQL
