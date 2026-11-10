@@ -17,6 +17,6 @@ JavaScript · HTML · CSS · MySQL · PostgreSQL
 
 <a href="https://www.linkedin.com/in/erickmaced"><img src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/linkedin.png" width="20"></img></a> [LinkedIn](https://www.linkedin.com/in/erickmaced)
 
-<a href="mailto:erickmacedo@edu.unifor.br"><img src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/email.png" widht="20"></img></a> [Email](mailto:erickmacedo@edu.unifor.br)
+<a href="mailto:erickmacedo@edu.unifor.br"><img src="https://raw.githubusercontent.com/erickmacedoo/erickmacedoo/main/img/email.png" width="20"></img></a> [Email](mailto:erickmacedo@edu.unifor.br)
 
 
